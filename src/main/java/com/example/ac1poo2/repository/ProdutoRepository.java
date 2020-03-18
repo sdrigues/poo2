@@ -1,10 +1,10 @@
-package com.example.poo2ac1.repository;
+package com.example.ac1poo2.repository;
 
 import java.util.HashMap;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.poo2ac1.model.Produto;
+import com.example.ac1poo2.model.Produto;
 
 import org.springframework.stereotype.Repository;
 

@@ -1,10 +1,10 @@
-package com.example.poo2ac1.service;
+package com.example.ac1poo2.service;
 
 
 import java.util.List;
 import java.util.ArrayList;
-import com.example.poo2ac1.model.Produto;
-import com.example.poo2ac1.repository.ProdutoRepository;
+import com.example.ac1poo2.model.Produto;
+import com.example.ac1poo2.repository.ProdutoRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

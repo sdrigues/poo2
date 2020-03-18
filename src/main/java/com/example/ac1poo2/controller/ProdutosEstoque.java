@@ -1,7 +1,7 @@
-package com.example.poo2ac1.controller;
+package com.example.ac1poo2.controller;
 
 import java.util.List;
-import com.example.poo2ac1.service.ProdutoService;
+import com.example.ac1poo2.service.ProdutoService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

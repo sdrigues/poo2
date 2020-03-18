@@ -1,4 +1,4 @@
-package com.example.poo2ac1.model;
+package com.example.ac1poo2.model;
 
 /**
  * Produto
